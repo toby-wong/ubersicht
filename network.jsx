@@ -7,7 +7,7 @@ const renderClass = `
   ${defaultTheme2}
   right: auto;
   bottom: auto;
-  margin-left: calc(7ch + 3px);
+  margin-left: calc(7ch + 2px);
 `;
 
 const render = ({ output }) => <div>{`${output}`}</div>;

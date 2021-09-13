@@ -5,10 +5,10 @@ const refreshFrequency = 1000; // ms
 
 const renderClass = `
   ${defaultTheme2}
-  right: auto;
+  left: auto;
   bottom: auto;
-  margin-left: calc(223ch + 2px);
   font-weight: thin;
+  margin-right: calc(15ch - 3px);
 `;
 
 const render = ({ output }) => <div>{`${output}`}</div>;

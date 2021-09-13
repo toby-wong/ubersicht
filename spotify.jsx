@@ -8,7 +8,7 @@ const renderClass = `
   left: auto;
   bottom: auto;
   font-weight: thin;
-  margin-right: calc(13ch + 82px);
+  margin-right: calc(26ch - 2px);
 `;
 
 const render = ({ output }) => {
