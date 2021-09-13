@@ -1,6 +1,6 @@
-# ubersicht widgets
+# Übersicht widgets
 
-Widgets for [Uebersicht](https://github.com/felixhageloh/uebersicht) created using React + CSS
+Widgets for [Übersicht](https://github.com/felixhageloh/uebersicht) created using React + CSS
 
 ## Required Softare
 * Ubersicht
